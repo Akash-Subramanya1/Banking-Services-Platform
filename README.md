@@ -44,13 +44,13 @@ The system is then designed in accordance specifications to satisfy the requirem
 
 <img src="Cashier.png" width="400" height="400">
 
-<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+<img src="Home.png" width="400" height="400">
 
-<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+<img src="Account.png" width="400" height="400">
 
-<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+<img src="Manager.png" width="400" height="400">
 
-<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+<img src="php.png" width="400" height="400">
 
 
 Technologies used:
