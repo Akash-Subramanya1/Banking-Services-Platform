@@ -50,7 +50,7 @@ The system is then designed in accordance specifications to satisfy the requirem
 
 <img src="Manager.png" width="400" height="400">
 
-<img src="php.png" width="400" height="400">
+<img src="Php.png" width="400" height="400">
 
 
 Technologies used:
