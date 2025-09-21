@@ -39,7 +39,19 @@ The system is then designed in accordance specifications to satisfy the requirem
 
 • Database : MYSQL (Install XAMPP)
 
-• Server: XAMPP
+**Demo Images**
+
+
+<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+
+<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+
+<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+
+<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+
+<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+
 
 Technologies used:
 
