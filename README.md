@@ -42,7 +42,7 @@ The system is then designed in accordance specifications to satisfy the requirem
 **Demo Images**
 
 
-<img src="Output Snapshots/screenshot-2.png" width="400" height="400">
+<img src="Output Snapshots/Cashier.png" width="400" height="400">
 
 <img src="Output Snapshots/screenshot-2.png" width="400" height="400">
 
