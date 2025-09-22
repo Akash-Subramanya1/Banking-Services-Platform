@@ -42,7 +42,7 @@ The system is then designed in accordance specifications to satisfy the requirem
 **Demo Images**
 
 
-<img src="Cashier.png" width="450" height="450"> &nbsp;&nbsp; <img src="Home.png" width="450" height="450"> 
+<img src="Cashier.png" width="450" height="450">  &nbsp;&nbsp; <img src="Home.png" width="450" height="450"> 
 
 <img src="Account.png" width="450" height="450"> &nbsp;&nbsp; <img src="Manager.png" width="450" height="450"> 
 
