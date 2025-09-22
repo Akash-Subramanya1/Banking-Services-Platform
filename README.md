@@ -42,15 +42,12 @@ The system is then designed in accordance specifications to satisfy the requirem
 **Demo Images**
 
 
-<img src="Cashier.png" width="400" height="400">
+<img src="Cashier.png" width="400" height="500"> &nbsp;&nbsp; <img src="Home.png" width="400" height="500"> 
 
-<img src="Home.png" width="400" height="400">
+<img src="Account.png" width="500" height="500"> &nbsp;&nbsp; <img src="Manager.png" width="500" height="500"> 
 
-<img src="Account.png" width="400" height="400">
+<img src="Php.png" width="500" height="500">
 
-<img src="Manager.png" width="400" height="400">
-
-<img src="Php.png" width="400" height="400">
 
 
 Technologies used:
